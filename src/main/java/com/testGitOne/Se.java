@@ -1,2 +1,4 @@
-package com.testGitOne;public class Se {
+package com.testGitOne;
+
+public class Se {
 }
